@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:oussama.kharouiche@student-cs.fr"}
   - {title: Github, icon: github, url: "https://github.com/oussamakharouiche"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/oussama-kharouiche/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+ # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
