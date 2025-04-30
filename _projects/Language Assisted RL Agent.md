@@ -6,7 +6,7 @@ title: "Language Assisted RL Agent"
 ## Problem Addressed  
 Traditional Reinforcement Learning (RL) agents excel at optimizing reward signals but lack the ability to interpret and act on high-level **natural language instructions**. This limits their adaptability in real-world scenarios where tasks are often defined through human commands. Our project bridges this gap by integrating **natural language understanding (NLU)** with RL, enabling agents to execute complex textual directives in structured environments.  
 
-## Problem Addressed  
+## Technologies Used 
 * **Python**: Gymnasium, PyGame, PyTorch
 * **Git**
 
