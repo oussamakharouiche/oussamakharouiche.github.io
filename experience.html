@@ -11,10 +11,10 @@ permalink: "/experience/"
       {% for entry in site.experience %}
         <li>
           <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
-          {% if entry.company %}
+          <!-- {% if entry.company %}
             <p>{{ entry.company }} - {{ entry.duration }}</p>
           {% endif %}
-          {{ entry.excerpt }} # Optional: display excerpt if you add one to front matter
+          {{ entry.excerpt }} # Optional: display excerpt if you add one to front matter -->
         </li>
       {% endfor %}
     </ul>
