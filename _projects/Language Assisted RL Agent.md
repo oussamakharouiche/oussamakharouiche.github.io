@@ -21,5 +21,5 @@ Traditional Reinforcement Learning (RL) agents excel at optimizing reward signal
 
 🔗 **Links**  
 - [GitHub Repository](https://github.com/oussamakharouiche/Language-Assisted-RL-Agent-)  
-- [Project Poster](https://www.canva.com/design/DAGmHMzJryg/8c3wcM2lH7oKAqZ0iH1R7w/edit?utm_content=DAGmHMzJryg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- [Project Poster](https://drive.google.com/file/d/1Hvc0dEbmnYoxHY1DKkbc9BzlMoopHPkK/view?usp=sharing)  
 
