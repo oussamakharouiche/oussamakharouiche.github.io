@@ -15,7 +15,7 @@ Traditional Reinforcement Learning (RL) agents excel at optimizing reward signal
 ## Bibliography  
 1. Schulman, J., et al. (2017). [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347).  
 2. Chevalier-Boisvert, M., et al. (2019). [**BabyAI: A Platform to Study Grounded Language Learning**](https://arxiv.org/abs/1810.08272).  
-3. Paper Title. (Year). [**Inverse Reinforcement Learning with Natural Language Goals**](https://arxiv.org/abs/2008.06924).  
+3. Zhou, Li, and Kevin Small. (2021). [**Inverse Reinforcement Learning with Natural Language Goals**](https://arxiv.org/abs/2008.06924).  
 
 ---
 
