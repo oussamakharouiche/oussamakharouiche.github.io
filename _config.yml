@@ -15,9 +15,18 @@ minimal: false             # use a dark header
 
 # Menu
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  experience:
+    output: true
+    permalink: /experience/:title/
+
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {file: "README.md", title: "hello"}
+  - {file: "projects.html", title: "Projects"}
+  - {file: "experience.html", title: "Experience"}
   - {file: "resume.html", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
