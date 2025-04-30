@@ -11,9 +11,9 @@ permalink: "/projects/"
       {% for project in site.projects %}
         <li>
           <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-          {% if project.technologies %}
+          <!-- {% if project.technologies %}
             <small>({{ project.technologies | join: ", " }})</small>
-          {% endif %}
+          {% endif %} -->
         </li>
       {% endfor %}
     </ul>
