@@ -8,13 +8,20 @@ permalink: "/experience/"
   <h1>{{ page.title }}</h1>
   <div class="entry">
     <ul class="experience-list">
-      {% for entry in site.experience %}
+      {% comment %}
+        Sort experience entries by start_date in reverse (most recent first)
+        Make sure each entry in _experience has a 'start_date' field in its front matter.
+      {% endcomment %}
+      {% assign sorted_experience = site.experience | sort: "start_date" | reverse %}
+      {% for entry in sorted_experience %}
         <li>
           <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }} ( {{ entry.duration }} )</a></h3>
+          
           <!-- {% if entry.company %}
             <p>{{ entry.company }} - {{ entry.duration }}</p>
           {% endif %}
-          {{ entry.excerpt }} # Optional: display excerpt if you add one to front matter -->
+          {{ entry.excerpt }} -->
+          
         </li>
       {% endfor %}
     </ul>

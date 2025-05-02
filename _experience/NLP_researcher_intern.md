@@ -4,6 +4,7 @@ title: "NLP Researcher Intern at Cobbaï"
 company: "Cobbaï"
 duration: "Jul 2023–Dec 2023"
 location: "Paris, France"
+start_date: 2023-07-03
 ---
 
 During my internship as an NLP Research Intern at Cobbai, I focused on enhancing the startup’s core product through advanced natural language processing techniques. My work centered on refining text segmentation and improving text classification systems to deliver more precise and context-aware solutions.

@@ -4,6 +4,7 @@ title: "Quantitative Researcher Intern at QRT"
 company: "QRT"
 duration: "Jan 2024–Jul 2024"
 location: "Paris, France"
+start_date: 2024-01-08
 ---
 
 During my internship at QRT, I focused on leveraging market order book data to uncover trading patterns and generate alpha signals. My work involved conducting in-depth analysis of market data to identify meaningful trends and applying statistical techniques to detect recurring patterns in order book dynamics.
