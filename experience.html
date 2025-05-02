@@ -10,7 +10,7 @@ permalink: "/experience/"
     <ul class="experience-list">
       {% for entry in site.experience %}
         <li>
-          <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }} - {{ entry.duration }}</a></h3>
+          <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }} ( {{ entry.duration }} )</a></h3>
           <!-- {% if entry.company %}
             <p>{{ entry.company }} - {{ entry.duration }}</p>
           {% endif %}
