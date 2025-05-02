@@ -1,6 +1,6 @@
 ---
 layout: experience # Use the new experience layout
-title: "Statistical & Quantum Physics Teaching Assistant"
+title: "Statistical & Quantum Physics Teaching Assistant at CentraleSupélec"
 company: "CentraleSupélec"
 duration: "Jan 2023–Jun 2023"
 location: "Paris, France"

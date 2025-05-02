@@ -1,6 +1,6 @@
 ---
 layout: experience # Use the new experience layout
-title: "Quantitative Researcher Intern"
+title: "Quantitative Researcher Intern at QRT"
 company: "QRT"
 duration: "Jan 2024–Jul 2024"
 location: "Paris, France"
