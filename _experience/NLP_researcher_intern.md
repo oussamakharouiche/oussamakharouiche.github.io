@@ -1,6 +1,6 @@
 ---
 layout: experience # Use the new experience layout
-title: " NLP Researcher Intern at Cobbaï"
+title: "NLP Researcher Intern at Cobbaï"
 company: "Cobbaï"
 duration: "Jul 2023–Dec 2023"
 location: "Paris, France"
