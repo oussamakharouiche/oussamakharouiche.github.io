@@ -15,6 +15,6 @@ Responsibilities included:
 * **Execution Impact Analysis**: Evaluated how order execution affects market exposure and trading performance.
 
 Skills:
-* **Python**: NumPy, Pandas, SciKit-Learn
+* **Python**: NumPy, Pandas, SciKit-Learn, PyTorch
 * **Statistical Analysis**
 * **Machine Learning**
