@@ -70,7 +70,7 @@ Below are examples comparing the real low-resolution input, the bicubic upsample
 
 | Low-Res Input (64×64) | Bicubic Upsample                     | Model Output                         | Ground Truth (256×256)               |
 |:---------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| ![lowres](../_images/lowres/0030_crop_0_0.png) | ![bicubic](../_images/superres/0030_crop_0_0.png) | ![superres](../_images/superres/0030_crop_0_0.png) | ![gt](../_images/ground_truth/0030_crop_0_0.png) |
+| ![lowres](https://oussamakharouiche.github.io/_images/lowres/0030_crop_0_0.png) | ![bicubic](https://oussamakharouiche.github.io/_images/superres/0030_crop_0_0.png) | ![superres](https://oussamakharouiche.github.io/_images/superres/0030_crop_0_0.png) | ![gt](https://oussamakharouiche.github.io/_images/ground_truth/0030_crop_0_0.png) |
 
 ---
 
