@@ -75,7 +75,7 @@ Below are examples comparing the real low-resolution input, the bicubic upsample
 
 ---
 
-## Bibliography yo
+## Bibliography you
 1. [**Image Super-Resolution via Iterative Refinement**](https://arxiv.org/abs/2104.07636).
 2. [**Large Scale GAN Training for High Fidelity Natural Image Synthesis**](https://arxiv.org/abs/1809.11096).
 3. [**Denoising Diffusion Probabilistic Models**](https://arxiv.org/abs/2006.11239).
