@@ -3,7 +3,7 @@ layout: project # Use the new project layout
 title: "Proximal Policy Optimization Algorithms implementation"
 ---
 
-This project is a PPO paper implementation using Gymnasium environments, PyTorch neural networks, and Wandb for training visualization.
+This project is a PPO paper implementation using Gymnasium environments, PyTorch, and Wandb for metrics visualization.
 
 ---
 
@@ -52,7 +52,7 @@ In this project, I implement PPO, a state-of-the-art policy gradient algorithm, 
    ```
 3. evaluate the agent:
    ```bash
-   python3 evaluate.py --config-path ./configs/cartpole_config.yaml --checkpoint-path ./model_checkpoints/cartPole.pt
+   python3 evaluate.py --config-path ./configs/cartpole_config.yaml
    ```
 
 ---
