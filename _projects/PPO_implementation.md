@@ -62,7 +62,8 @@ In this project, I implement PPO, a state-of-the-art policy gradient algorithm, 
 | Environment     | Avg. Reward | Std. Dev |
 | --------------- | ----------- | -------- |
 | CartPole-v1     | 500.0       | 0.0      |
-| LunarLander-v3  | 240.5       | 15.2     |
+| LunarLander-v3  | 279.11      | 14.17    |
+| Acrobot-v1      | 279.11      | 14.17    |
 
 *Note: Results may vary based on random seed and hyperparameters.*  
 
