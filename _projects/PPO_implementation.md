@@ -59,7 +59,7 @@ In this project, I implement PPO, a state-of-the-art policy gradient algorithm, 
 
 ## Results
 
-results avereged on 100 run
+Results averaged over 100 evaluation runs:
 
 | Environment     | Avg. Reward | Std. Dev |
 | --------------- | ----------- | -------- |
