@@ -42,9 +42,9 @@ We designed a **language-guided RL agent** that translates textual instructions 
 ---
 
 ## Bibliography  
-1. Schulman, J., et al. (2017). [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347).  
-2. Chevalier-Boisvert, M., et al. (2019). [**BabyAI: A Platform to Study Grounded Language Learning**](https://arxiv.org/abs/1810.08272).  
-3. Zhou, Li, and Kevin Small. (2021). [**Inverse Reinforcement Learning with Natural Language Goals**](https://arxiv.org/abs/2008.06924).  
+1. [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347).  
+2. [**BabyAI: A Platform to Study Grounded Language Learning**](https://arxiv.org/abs/1810.08272).  
+3. [**Inverse Reinforcement Learning with Natural Language Goals**](https://arxiv.org/abs/2008.06924).  
 
 ---
 

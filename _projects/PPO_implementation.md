@@ -3,7 +3,7 @@ layout: project # Use the new project layout
 title: "Proximal Policy Optimization Algorithms implementation"
 ---
 
-This project is a PPO paper implementation using Gymnasium environments, PyTorch, and Wandb for metrics visualization.
+**This project is a PPO paper implementation using Gymnasium environments, PyTorch, and Wandb for metrics visualization.**
 
 ---
 
@@ -48,7 +48,7 @@ In this project, I implement PPO, a state-of-the-art policy gradient algorithm, 
 1. Create config file if not found
 2. Train the ppo agent:
    ```bash
-   python3 ppo.py --config-path ./configs/lunarlander_config.yaml
+   python3 ppo.py --config-path ./configs/cartpole_config.yaml
    ```
 3. evaluate the agent:
    ```bash
@@ -57,8 +57,19 @@ In this project, I implement PPO, a state-of-the-art policy gradient algorithm, 
 
 ---
 
+## 📈 Results
+
+| Environment     | Avg. Reward | Std. Dev |
+| --------------- | ----------- | -------- |
+| CartPole-v1     | 500.0       | 0.0      |
+| LunarLander-v3  | 240.5       | 15.2     |
+
+*Note: Results may vary based on random seed and hyperparameters.*  
+
+---
+
 ## Bibliography 
-1. Schulman, J., et al. (2017). [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347).
+1. [**Proximal Policy Optimization Algorithms**](https://arxiv.org/abs/1707.06347).
 
 ---
 
