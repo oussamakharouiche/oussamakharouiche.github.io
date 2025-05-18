@@ -66,11 +66,12 @@ This project explores the application of conditional diffusion models to the tas
 
 ## Results
 
+
 Below are examples comparing the real low-resolution input, the bicubic upsample, the model output, and the ground-truth high-resolution image.
 
-| Low-Res Input (64×64) | Bicubic Upsample                     | Model Output                         | Ground Truth (256×256)               |
-|:---------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| ![lowres]({{ site.baseurl }}/_images/lowres/0030_crop_0_0.png) | ![bicubic]({{ site.baseurl }}/_images/superres/0030_crop_0_0.png) | ![superres]({{ site.baseurl }}/_images/superres/0030_crop_0_0.png) | ![gt]({{ site.baseurl }}/_images/ground_truth/0030_crop_0_0.png) |
+| Low-Res Input (64×64)                                                                        | Bicubic Upsample                                                                                   | Model Output                                                                                      | Ground Truth (256×256)                                                                          |
+|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| ![lowres]({{ site.baseurl }}/_images/lowres/0030_crop_0_0.png)                                | ![bicubic]({{ site.baseurl }}/_images/bicubic/0030_crop_0_0.png)                                   | ![superres]({{ site.baseurl }}/_images/superres/0030_crop_0_0.png)                                | ![gt]({{ site.baseurl }}/_images/ground_truth/0030_crop_0_0.png)                                 |
 
 ---
 
