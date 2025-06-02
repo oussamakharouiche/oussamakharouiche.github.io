@@ -12,12 +12,6 @@ permalink: "/projects/"
       {% for entry in sorted_project %}
         <li>
           <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
-          
-          <!-- {% if entry.company %}
-            <p>{{ entry.company }} - {{ entry.duration }}</p>
-          {% endif %}
-          {{ entry.excerpt }} -->
-          
         </li>
       {% endfor %}
     </ul>
