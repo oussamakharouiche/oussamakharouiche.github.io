@@ -8,12 +8,16 @@ permalink: "/projects/"
   <h1>{{ page.title }}</h1>
   <div class="entry">
     <ul class="project-list">
-      {% for project in site.projects %}
+      {% assign sorted_project = site.projects | sort: "rank" | reverse %}
+      {% for entry in sorted_project %}
         <li>
-          <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-          <!-- {% if project.technologies %}
-            <small>({{ project.technologies | join: ", " }})</small>
-          {% endif %} -->
+          <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
+          
+          <!-- {% if entry.company %}
+            <p>{{ entry.company }} - {{ entry.duration }}</p>
+          {% endif %}
+          {{ entry.excerpt }} -->
+          
         </li>
       {% endfor %}
     </ul>
