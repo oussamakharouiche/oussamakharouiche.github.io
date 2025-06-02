@@ -8,7 +8,7 @@ permalink: "/projects/"
   <h1>{{ page.title }}</h1>
   <div class="entry">
     <ul class="project-list">
-      {% assign sorted_project = site.projects | sort: "rank" | reverse %}
+      {% assign sorted_project = site.projects | sort: "rank" %}
       {% for entry in sorted_project %}
         <li>
           <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
