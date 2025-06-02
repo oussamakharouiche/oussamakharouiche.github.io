@@ -1,6 +1,7 @@
 ---
 layout: project
 title: "Image Super-Resolution with Conditional Diffusion"
+rank: 2
 ---
 
 **A personal project implementing an image super-resolution model using a conditional diffusion approach.**

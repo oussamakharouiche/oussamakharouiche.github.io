@@ -1,6 +1,7 @@
 ---
 layout: project # Use the new project layout
 title: "Proximal Policy Optimization Algorithms implementation"
+rank: 3
 ---
 
 **This project is a PPO paper implementation using Gymnasium environments, PyTorch, and Wandb for metrics visualization.**

@@ -1,6 +1,7 @@
 ---
 layout: project # Use the new project layout
 title: "Language Assisted RL Agent"
+rank: 1
 ---
 
 ## Problem Addressed  
