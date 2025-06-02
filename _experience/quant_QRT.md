@@ -7,16 +7,15 @@ location: "Paris, France"
 start_date: 2024-01-08
 ---
 
-During my research internship at LIX within the DaSciM team, I'm developing **Cell2Text**, a cutting-edge **foundation model** designed to generate automated descriptions of single cells. This project bridges the gap between complex biological data and natural language, aiming to revolutionize how we understand and interact with single-cell information.
+During my internship at QRT, I focused on leveraging market order book data to uncover trading patterns and generate alpha signals. My work involved conducting in-depth analysis of market data to identify meaningful trends and applying statistical techniques to detect recurring patterns in order book dynamics.
 
-My responsibilities include:
-* **Biological Data Preprocessing**: Handling and preparing diverse biological datasets, including single-cell RNA sequencing and gene expression data, for model training.
-* **Multimodal LLM Development**: Architecting and developing Cell2Text, a **multimodal large language model** that integrates single-cell data with natural language processing techniques. This model will enable automated cell description generation and facilitate answering complex biological questions.
-* **Multimodal Fusion Engineering**: Exploring and implementing innovative **multimodal fusion techniques** to extend the Cell2Text framework beyond single-cell analysis to broader biological domains.
+Responsibilities included:
+* **Market Order Book Analysis**: Analyzed order book data to understand buying and selling dynamics and reveal insights into market behavior.
+* **Alpha Research Development**: Leveraged identified patterns to uncover potential profit signals using linear regression and other machine learning algorithms.
+* **Strategy Backtesting**: Tested the effectiveness of investment strategies based on identified patterns to optimize returns while reducing risks.
+* **Execution Impact Analysis**: Evaluated how order execution affects market exposure and trading performance.
 
 Skills:
-* **Python**: scikit-learn, PyTorch
-* **Fine Tuning**: LoRA
-* **Single-cell RNA Sequencing Analysis**
-* **Natural Language Processing (NLP)**
+* **Python**: NumPy, Pandas, SciKit-Learn, PyTorch
+* **Statistical Analysis**
 * **Machine Learning**
